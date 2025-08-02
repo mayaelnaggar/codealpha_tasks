@@ -13,6 +13,6 @@ Charts created:
 
 How to View:
 - PNG images to see charts
-- "Book1.tbwx" in Tableau for the original workbook
+- "Book1.twb" in Tableau for the original workbook
 
 Thank you for your time !
